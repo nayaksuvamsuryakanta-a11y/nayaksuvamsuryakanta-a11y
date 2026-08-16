@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- DARK JAGGED WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&height=120&section=header" width="100%" />
 
-<!--
-**nayaksuvamsuryakanta-a11y/nayaksuvamsuryakanta-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GLITCH TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=20&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=750&height=80&lines=%3E+Initializing...;%3E+Hello_World();%3E+I+am+Suvam;%3E+Data+Scientist;%3E+Ready+to+analyze!" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- CYBER BADGES + LIVE STATS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-DATA_SCIENCE-0D1117?style=for-the-badge&logo=databricks&logoColor=FF0055" />
+  <img src="https://img.shields.io/badge/-AI_DEVELOPER-0D1117?style=for-the-badge&logo=python&logoColor=FF0055" />
+  <br />
+  <!-- LIVE FOLLOWERS (Replace YOUR_HANDLE_HERE) -->
+  <img src="https://img.shields.io/github/followers/YOUR_HANDLE_HERE?label=Followers&style=for-the-badge&color=FF0055&logo=github" />
+  <!-- LIVE PROFILE VIEWS (Replace YOUR_HANDLE_HERE) -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_HANDLE_HERE&style=for-the-badge&color=FF0055" />
+</p>
