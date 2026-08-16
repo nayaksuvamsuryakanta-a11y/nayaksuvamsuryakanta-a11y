@@ -1,27 +1,24 @@
 <!-- ============================================ -->
-<!--  GAMING WALLPAPER HEADER (with Fallback)     -->
+<!--  GAMING WALLPAPER HEADER (Works 100%)        -->
 <!-- ============================================ -->
 <!-- 
-  🔥 IF THE WALLPAPER DOESN'T LOAD:
-  1. Download the wallpaper from https://wallpapercave.com/wp/wp7476948.jpg
-  2. Go to THIS repository (YOUR_HANDLE/YOUR_HANDLE)
+  💡 The wallpaper link tries to load from WallpaperCave.
+  If it fails, it AUTOMATICALLY falls back to a dark gaming grid.
+  
+  🔥 FOR 100% GUARANTEED WALLPAPER:
+  1. Download the wallpaper from the link.
+  2. Go to THIS repository (SuvamSuryakantaNayak/SuvamSuryakantaNayak)
   3. Click "Add file" > "Upload files" and upload it as 'wallpaper.jpg'
-  4. Change the src below to: https://raw.githubusercontent.com/YOUR_HANDLE/YOUR_HANDLE/main/wallpaper.jpg
+  4. Replace the src below with:
+     https://raw.githubusercontent.com/SuvamSuryakantaNayak/SuvamSuryakantaNayak/main/wallpaper.jpg
 -->
-
-<!-- Primary: Wallpaper from WallpaperCave -->
-<img src="https://wallpapercave.com/wp/wp7476948.jpg" width="100%" alt="Gaming Wallpaper" onerror="this.onerror=null;this.src='https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1A0B2E&height=250&section=header&text=SYSTEM%20BOOTING...&fontSize=40&fontColor=FF0055&animation=twinkling&fontAlignY=40'" />
-
-<!-- 
-  💡 ALTERNATIVE: If you upload the wallpaper to your repo, REPLACE the line above with:
-  <img src="https://raw.githubusercontent.com/YOUR_HANDLE/YOUR_HANDLE/main/wallpaper.jpg" width="100%" alt="Gaming Wallpaper" />
--->
+<img src="https://wallpapercave.com/wp/wp7476948.jpg" width="100%" alt="Gaming Wallpaper" onerror="this.onerror=null;this.src='https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A0B2E&height=220&section=header&text=GAMER%20-%20DATA%20SCIENTIST&fontSize=30&fontColor=FF0055&animation=twinkling&fontAlignY=40'" />
 
 <!-- ============================================ -->
 <!--  GLITCH TYPING EFFECT (Matrix Style)         -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=22&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=850&height=90&lines=%3E+Entering+The+Matrix...;%3E+Hello,+World!;%3E+I+am+Suvam+Suryakanta+Nayak;%3E+Data+Scientist+%7C+Gamer;%3E+Ready+to+Analyze!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=20&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=850&height=80&lines=%3E+Entering+The+Matrix...;%3E+Hello,+World!;%3E+I+am+Suvam+Suryakanta+Nayak;%3E+Data+Scientist+%7C+Gamer;%3E+Ready+to+Analyze!" />
 </p>
 
 <!-- ============================================ -->
@@ -33,10 +30,10 @@
   <img src="https://img.shields.io/badge/🧠_AI_MODEL-TRAINED-FF0055?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/🐍_PYTHON-MASTER-FF0055?style=for-the-badge&logo=python&logoColor=white" />
   <br />
-  <!-- Live Follower & View Counters (CHANGE YOUR_HANDLE_HERE) -->
-  <img src="https://img.shields.io/github/followers/YOUR_HANDLE_HERE?label=👥%20Followers&style=for-the-badge&color=FF0055&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_HANDLE_HERE&label=👀%20Profile%20Views&style=for-the-badge&color=FF0055" />
-  <img src="https://img.shields.io/github/stars/YOUR_HANDLE_HERE?label=⭐%20Total%20Stars&style=for-the-badge&color=FF0055&logo=github" />
+  <!-- LIVE STATS (Hardcoded for SuvamSuryakantaNayak) -->
+  <img src="https://img.shields.io/github/followers/SuvamSuryakantaNayak?label=👥%20Followers&style=for-the-badge&color=FF0055&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=SuvamSuryakantaNayak&label=👀%20Profile%20Views&style=for-the-badge&color=FF0055" />
+  <img src="https://img.shields.io/github/stars/SuvamSuryakantaNayak?label=⭐%20Total%20Stars&style=for-the-badge&color=FF0055&logo=github" />
 </p>
 
 <!-- ============================================ -->
@@ -49,15 +46,11 @@
 <!-- ============================================ -->
 <h3 align="center">📊 Data Scientist's Terminal Stats</h3>
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_HANDLE_HERE&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&icon_color=FF0055&title_color=FF0055&text_color=C9D1D9" />
-  <!-- GitHub Streak Card -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_HANDLE_HERE&theme=dark&background=0D1117&hide_border=true&ring=FF0055&fire=FF0055&currStreakLabel=FF0055" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuvamSuryakantaNayak&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&icon_color=FF0055&title_color=FF0055&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuvamSuryakantaNayak&theme=dark&background=0D1117&hide_border=true&ring=FF0055&fire=FF0055&currStreakLabel=FF0055" />
 </p>
-
-<!-- Top Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_HANDLE_HERE&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=FF0055&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvamSuryakantaNayak&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=FF0055&text_color=C9D1D9" />
 </p>
 
 <!-- ============================================ -->
@@ -85,4 +78,4 @@
 <!-- ============================================ -->
 <!--  BOTTOM GAMING WAVE                          -->
 <!-- ============================================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,100:000000&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,100:0D1117&height=100&section=footer" width="100%" />
