@@ -1,16 +1,20 @@
 <!-- ============================================ -->
-<!--  ULTIMATE GAMING WALLPAPER HEADER (CODE)    -->
+<!--  GAMING WALLPAPER HEADER (with Fallback)     -->
 <!-- ============================================ -->
-<!-- This creates a dark, animated gaming grid background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1A0B2E&height=220&section=header&text=SYSTEM%20BOOTING...&fontSize=40&fontColor=FF0055&animation=twinkling&fontAlignY=40" width="100%" />
+<!-- 
+  🔥 IF THE WALLPAPER DOESN'T LOAD:
+  1. Download the wallpaper from https://wallpapercave.com/wp/wp7476948.jpg
+  2. Go to THIS repository (YOUR_HANDLE/YOUR_HANDLE)
+  3. Click "Add file" > "Upload files" and upload it as 'wallpaper.jpg'
+  4. Change the src below to: https://raw.githubusercontent.com/YOUR_HANDLE/YOUR_HANDLE/main/wallpaper.jpg
+-->
+
+<!-- Primary: Wallpaper from WallpaperCave -->
+<img src="https://wallpapercave.com/wp/wp7476948.jpg" width="100%" alt="Gaming Wallpaper" onerror="this.onerror=null;this.src='https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1A0B2E&height=250&section=header&text=SYSTEM%20BOOTING...&fontSize=40&fontColor=FF0055&animation=twinkling&fontAlignY=40'" />
 
 <!-- 
-  🔥 WANT A REAL CUSTOM WALLPAPER IMAGE INSTEAD? 
-  1. Download a gaming/cyberpunk wallpaper.
-  2. Drag & drop it into THIS repository (the one named SuvamSuryakantaNayak).
-  3. Rename it to 'wallpaper.jpg'.
-  4. Delete the line above, and UNCOMMENT (remove the <!-- --> from) the line below:
-  <img src="https://github.com/SuvamSuryakantaNayak/SuvamSuryakantaNayak/blob/main/wallpaper.jpg?raw=true" width="100%" />
+  💡 ALTERNATIVE: If you upload the wallpaper to your repo, REPLACE the line above with:
+  <img src="https://raw.githubusercontent.com/YOUR_HANDLE/YOUR_HANDLE/main/wallpaper.jpg" width="100%" alt="Gaming Wallpaper" />
 -->
 
 <!-- ============================================ -->
